@@ -14,7 +14,7 @@ Inside csv you need to format it like
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                               
 (url at first column) || (image name) || (device name)                                                                    
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                  
-for example :- 
+for example :-                                                                                                       
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  "https://github.com/DivanshuTak/web-screenshot" || "Site Screenshot" || "iPhone 5"
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
