@@ -7,13 +7,13 @@ Here to take screenshot of website you just need to replace the inside python fi
 After running of main.py it will ask you for your CSV file location 
 e.g
 >>Enter csv file path
->>/home/divanshu/doc/urls.csv
+>>/home/divanshu/doc/urls.csv                                                               
 
-Inside csv you need to format it like
+Inside csv you need to format it like                                                                      
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-(url at first column) || (image name) || (device name) 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                               
+(url at first column) || (image name) || (device name)                                                                    
++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                  
 for example :- 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  "https://github.com/DivanshuTak/web-screenshot" || "Site Screenshot" || "iPhone 5"
