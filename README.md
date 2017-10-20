@@ -1,4 +1,4 @@
-# web-screenshot
+# Erratum:
 In this script you can take screenshot of website by giving path of csv of urls of that website according to your device name in which you want to test your website.
 For this you what you just needed is Ubuntu which has installed chrome in it.
 
