@@ -16,6 +16,6 @@ Inside csv you need to format it like
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++                                                                  
 for example :-                                                                                                       
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
- "https://github.com/DivanshuTak/web-screenshot" || "Site Screenshot" || "iPhone 5"
+ "https://github.com/DivanshuTak/Erratum" || "Site Screenshot" || "iPhone 5"
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
